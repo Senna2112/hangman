@@ -28,3 +28,4 @@ If you're like me and you dislike NodeJS and NPM piling up heaps of folders on y
 5. Run `docker-compose up` and open a new terminal OR run `docker-compose up -d` which allows you to work in the same terminal.
 6. Follow the steps from [Instructions](#instructions) from step 4, but prefix all the commands with `docker-compose exec ts-app`.
 7. Close the docker container by pressing `ctrl` + `c` or `docker-compose down`, respectively for step 5
+# hangman
